@@ -8,3 +8,4 @@ A system for monitoring the quality of air
 3. Ham Thoya 
 4. Austin Masua
 5. Julius Mwangi
+6. Paul Mandela
