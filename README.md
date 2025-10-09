@@ -5,3 +5,4 @@ A system for monitoring the quality of air
 ## Collaborators
 1. Masika
 2. Felix Nyamongo
+3. Ham Thoya 
