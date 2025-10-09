@@ -9,4 +9,4 @@ A system for monitoring the quality of air
 4. Austin Masua
 5. Julius Mwangi
 6. Paul Mandela
-7. Daniel_
+7. Daniel Kariuki
