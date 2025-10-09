@@ -10,3 +10,4 @@ A system for monitoring the quality of air
 5. Julius Mwangi
 6. Paul Mandela
 7. Daniel Kariuki
+8. Stephen Ngige
