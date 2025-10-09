@@ -7,3 +7,4 @@ A system for monitoring the quality of air
 2. Felix Nyamongo
 3. Ham Thoya 
 4. Austin Masua
+5. Julius Mwangi
