@@ -4,4 +4,4 @@ A system for monitoring the quality of air
 
 ## Collaborators
 1. Masika
-2. 
+2. Felix
